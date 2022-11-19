@@ -51,5 +51,14 @@ else
 
 
 
+Console.WriteLine("Введите число");
+int number123 = Convert.ToInt32(Console.ReadLine());
+while (number123 > 0)
+{
+    Console.WriteLine("Введите число больше 0");
+    number123 = Convert.ToInt32(Console.ReadLine());
+}
+
+
 
 
