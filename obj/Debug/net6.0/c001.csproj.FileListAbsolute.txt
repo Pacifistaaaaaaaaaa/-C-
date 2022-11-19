@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\c1\c001\bin\Debug\net6.0\c001.exe
+C:\Users\Олег\Desktop\c1\c001\bin\Debug\net6.0\c001.deps.json
+C:\Users\Олег\Desktop\c1\c001\bin\Debug\net6.0\c001.runtimeconfig.json
+C:\Users\Олег\Desktop\c1\c001\bin\Debug\net6.0\c001.dll
+C:\Users\Олег\Desktop\c1\c001\bin\Debug\net6.0\c001.pdb
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.AssemblyInfo.cs
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.dll
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\refint\c001.dll
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.pdb
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\c001.genruntimeconfig.cache
+C:\Users\Олег\Desktop\c1\c001\obj\Debug\net6.0\ref\c001.dll
